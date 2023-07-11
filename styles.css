@@ -4,6 +4,11 @@
     box-sizing: border-box;
   }
 
+  body {
+    background: rgb(39,51,40);
+    background: linear-gradient(0deg, rgba(39,51,40,1) 47%, rgba(25,131,59,1) 100%);
+  }
+
   .container {
     display: flex;
   }
